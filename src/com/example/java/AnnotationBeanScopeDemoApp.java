@@ -1,17 +1,28 @@
 package com.example.java;
 
-        import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class AnnotationBeanScopeDemoApp {
 
-    // load spring config file
-    ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+    public static void main(String[] args) {
 
-    // retrieve bean from spring container
-    Coach thecoach = context.getBean("handballCoach", Coach.class);
-    Coach alphaCoach = context.getBean("handballCoach", Coach.class);
+        // load spring config file
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 
-    boolean result = (thecoach == alphaCoach);
+        // retrieve bean from spring container
+        Coach thecoach = context.getBean("handballCoach", Coach.class);
+        Coach alphaCoach = context.getBean("handballCoach", Coach.class);
 
-    // print out the results
+        boolean result = (thecoach == alphaCoach);
+
+        // print out the results
+        System.out.println("\nPointing to the same object " + result);
+
+        System.out.println("\nMemory location for theCoach " + thecoach);
+
+        System.out.println("\nMemory location for alphaCoach " + alphaCoach);
+
+        // close the context
+        context.close();
+    }
 }

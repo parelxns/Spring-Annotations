@@ -2,6 +2,7 @@ package com.example.java;
 
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -19,7 +20,13 @@ public class FileFortuneService implements FortuneService {
             // random number generator
             private Random myRandom = new Random();
 
-    public FileFortuneService(){
+            public FileFortuneService(){
+                System.out.println(">> FileFortuneService: inside default constructor");
+            }
+
+    @PostConstruct // beeds to be executed after dependency injection is done to perform any initialization.
+    public void loadTheFotunesFile(){
+        System.out.println(">> FileFortuneService: inside method loadTheFotunesFile ");
 
                 File theFile = new File(fileName);
 

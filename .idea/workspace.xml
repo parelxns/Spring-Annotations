@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3208028-9415-4ccd-96b3-dc368ac3e95b" name="Default" comment="" />
+    <list default="true" id="f3208028-9415-4ccd-96b3-dc368ac3e95b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-demo-annotations/com/example/java/FileFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-demo-annotations/com/example/java/FileFortuneService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-demo-annotations/com/example/java/HandballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-demo-annotations/com/example/java/HandballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/java/FileFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/java/FileFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/java/HandballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/java/HandballCoach.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,20 +19,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AnnotationBeanScopeDemoApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnnotationBeanScopeDemoApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnnotationDemoApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
+      <file leaf-file-name="HandballCoach.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/java/HandballCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="253">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileFortuneService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/java/FileFortuneService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostConstruct.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/javax/annotation/PostConstruct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="33" column="69" selection-start-line="32" selection-start-column="58" selection-end-line="33" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -61,11 +104,11 @@
         <option value="$PROJECT_DIR$/src/com/example/java/Coach.java" />
         <option value="$PROJECT_DIR$/src/com/example/java/FortuneService.java" />
         <option value="$PROJECT_DIR$/src/sport.properties" />
-        <option value="$PROJECT_DIR$/src/com/example/java/FileFortuneService.java" />
         <option value="$PROJECT_DIR$/src/com/example/java/fortune-data.txt" />
-        <option value="$PROJECT_DIR$/src/com/example/java/HandballCoach.java" />
         <option value="$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java" />
         <option value="$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/example/java/HandballCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/example/java/FileFortuneService.java" />
       </list>
     </option>
   </component>
@@ -141,7 +184,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.AnnotationBeanScopeDemoApp">
+    <configuration name="AnnotationBeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java.AnnotationBeanScopeDemoApp" />
+      <module name="spring-demo-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.java.AnnotationDemoApp" />
       <module name="spring-demo-annotations" />
@@ -177,9 +230,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.SetterAnnotationDemoApp" />
+      <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
         <item itemvalue="Application.SetterAnnotationDemoApp" />
       </list>
     </recent_temporary>
@@ -224,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3299389" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299389" />
       <window_info anchor="right" id="FAQ Robot" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17199148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17199148" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -278,14 +333,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/RESTFortuneService.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/java/TennisCoach.java" />
     <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -511,24 +558,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/FileFortuneService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/javax/annotation/PreDestroy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/java/HandballCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="253">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#479#480#0" expanded="true" />
             <element signature="e#532#533#0" expanded="true" />
@@ -537,17 +599,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/javax/annotation/PostConstruct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="33" column="69" selection-start-line="32" selection-start-column="58" selection-end-line="33" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/java/FileFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="221">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
