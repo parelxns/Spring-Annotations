@@ -11,7 +11,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AnnotationBeanScopeDemoApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnotationDemoApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,9 +62,10 @@
         <option value="$PROJECT_DIR$/src/com/example/java/FortuneService.java" />
         <option value="$PROJECT_DIR$/src/sport.properties" />
         <option value="$PROJECT_DIR$/src/com/example/java/FileFortuneService.java" />
-        <option value="$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java" />
         <option value="$PROJECT_DIR$/src/com/example/java/fortune-data.txt" />
         <option value="$PROJECT_DIR$/src/com/example/java/HandballCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java" />
       </list>
     </option>
   </component>
@@ -179,6 +199,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
@@ -201,9 +222,9 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.47556007" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3299389" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299389" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299389" />
       <window_info anchor="right" id="FAQ Robot" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17199148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17199148" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,7 +278,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/DatabaseFortuneService.java" />
     <entry file="file://$PROJECT_DIR$/src/com/example/java/RESTFortuneService.java" />
     <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -519,8 +539,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="374">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/java/AnnotationBeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
